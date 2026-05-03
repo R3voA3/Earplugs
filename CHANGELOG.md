@@ -26,5 +26,5 @@
 # 1.0.1
 - fixed conflict in CfgPatches
 
-# 1.0.0 @ 3 Nov, 2017 @ 9:00pm
+# 1.0.0
 - release
