@@ -1,5 +1,3 @@
-*.pbo
 .hemttout
-hemtt
-hemtt.exe
+.hemtt
 *.biprivatekey
