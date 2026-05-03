@@ -1,0 +1,48 @@
+name = "Earplugs"
+author = "R3vo"
+prefix = "EP"
+mainprefix = "z"
+
+[version]
+major = 1
+minor = 1
+patch = 0
+git_hash = 0
+
+[lints.sqf.command_case]
+severity = "Error"
+options.ignore = [
+    "AGLtoASL",
+    "ASLtoAGL",
+    "groupID"
+]
+
+[lints.sqf.banned_commands]
+options.banned = [
+    "execVM",
+    "opfor",
+    "blufor",
+    "resistance",
+    "and",
+    "or",
+    "not",
+    "vehicle"
+]
+
+[lints.sqf.var_all_caps]
+enabled = true
+
+##########################################################################################
+############################## LAUNCH DEFAULT ############################################
+##########################################################################################
+[hemtt.launch.default]
+
+workshop = [
+    "450814997",    # CBA_A3
+    "463939057"     # ACE3
+]
+
+parameters = [
+    "-limitFPS=60",
+    "-language=German"
+]

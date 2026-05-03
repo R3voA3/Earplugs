@@ -1,0 +1,12 @@
+name = "Earplugs";
+author = "R3vo";
+picture = "\z\ep\addons\main\data\logo_ca.paa";
+logoSmall = "\z\ep\addons\main\data\logo_ca.paa";
+logo = "\z\ep\addons\main\data\logo_ca.paa";
+logoOver = "\z\ep\addons\main\data\logo_ca.paa";
+actionName = "Workshop";
+action = "http://steamcommunity.com/sharedfiles/filedetails/?id=489296873";
+tooltipOwned = "Allows the use of earplugs.";
+overview = "Allows the use of earplugs. Keybindings and settings can be changed via the CBA Settings/Controls menu.";
+hideName = 0;
+hidePicture = 0;
