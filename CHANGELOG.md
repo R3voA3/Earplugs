@@ -3,6 +3,7 @@
 - improved notification handling
 - improved English translation
 - minor cleanup
+- made mod public on GitHub https://github.com/R3voA3/Earplugs
 
 # 1.0.5
 - fixed minor issue
