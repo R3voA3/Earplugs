@@ -5,8 +5,8 @@ mainprefix = "z"
 
 [version]
 major = 1
-minor = 1
-patch = 0
+minor = 0
+patch = 6
 git_hash = 0
 
 [lints.sqf.command_case]
