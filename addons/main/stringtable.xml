@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="Earplugs">
     <Package name="Main">
+        <Container name="Controls">
+            <Key ID="STR_EP_CONTROLS_TOGGLE_EARPLUGS">
+                <English>Toggle Earplugs</English>
+                <Russian>Вставить/вынуть беруши</Russian>
+                <German>Ohrstöpsel umschalten</German>
+            </Key>
+        </Container>
         <Container name="Notifications">
             <Key ID="STR_EP_NOTIFICATION_COMBAT_DEAFNESS_DESCRIPTION">
                 <English>ACE's "Combat Deafness" must be disabled.</English>
@@ -58,13 +65,6 @@
                 <English>Degree of Volume Reduction</English>
                 <Russian>Степень глушения звука</Russian>
                 <German>Lautstärkenreduktion</German>
-            </Key>
-        </Container>
-        <Container name="Controls">
-            <Key ID="STR_EP_CONTROLS_TOGGLE_EARPLUGS">
-                <English>Toggle Earplugs</English>
-                <Russian>Вставить/вынуть беруши</Russian>
-                <German>Ohrstöpsel umschalten</German>
             </Key>
         </Container>
     </Package>
