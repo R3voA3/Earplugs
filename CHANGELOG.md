@@ -1,5 +1,6 @@
 # 1.0.6
-- added English, German and Russian translations
+- added English, German translation
+- added Russian translation, thanks to vits89
 - improved notification handling
 - improved English translation
 - minor cleanup
