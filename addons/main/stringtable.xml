@@ -4,66 +4,66 @@
         <Container name="Notifications">
             <Key ID="STR_EP_NOTIFICATION_COMBAT_DEAFNESS_DESCRIPTION">
                 <English>ACE's "Combat Deafness" must be disabled.</English>
-                <Russian></Russian>
+                <Russian>"Оглушение в бою" ACE должно быть отключено.</Russian>
                 <German>ACE's "Taubheit im Gefecht" muss deaktiviert werden.</German>
             </Key>
             <Key ID="STR_EP_NOTIFICATION_COMBAT_DEAFNESS_TITLE">
                 <English>Disable Combat Deafness</English>
-                <Russian></Russian>
+                <Russian>Отключи "Оглушение в бою"</Russian>
                 <German>"Taubheit im Gefecht" deaktivieren</German>
             </Key>
             <Key ID="STR_EP_NOTIFICATION_EARPLUGS_IN_DESCRIPTION">
                 <English>You are now wearing earplugs.</English>
-                <Russian></Russian>
+                <Russian>Ты сейчас используешь беруши.</Russian>
                 <German>Sie tragen jetzt Ohrstöpsel.</German>
             </Key>
             <Key ID="STR_EP_NOTIFICATION_EARPLUGS_IN_TITLE">
                 <English>Earplugs in</English>
-                <Russian></Russian>
+                <Russian>Беруши вставлены</Russian>
                 <German>Ohrstöpsel drinne</German>
             </Key>
             <Key ID="STR_EP_NOTIFICATION_EARPLUGS_OUT_DESCRIPTION">
                 <English>Earplugs have been removed.</English>
-                <Russian></Russian>
+                <Russian>Ты сейчас не используешь беруши.</Russian>
                 <German>Ohrstöpsel wurden entfernt.</German>
             </Key>
             <Key ID="STR_EP_NOTIFICATION_EARPLUGS_OUT_TITLE">
                 <English>Earplugs out</English>
-                <Russian></Russian>
+                <Russian>Беруши вынуты</Russian>
                 <German>Ohrstöpsel draußen</German>
             </Key>
         </Container>
         <Container name="Settings">
             <Key ID="STR_EP_SETTINGS_AFFECTS_MUSICVOLUME">
                 <English>Affects Music Volume?</English>
-                <Russian></Russian>
+                <Russian>Влиять на громкость музыки?</Russian>
                 <German>Beeinflusst Musiclautstärke?</German>
             </Key>
             <Key ID="STR_EP_SETTINGS_AFFECTS_RADIOVOLUME">
                 <English>Affects Radio Volume?</English>
-                <Russian></Russian>
+                <Russian>Влиять на громкость радио?</Russian>
                 <German>Beeinflusst Radiolautstärke?</German>
             </Key>
             <Key ID="STR_EP_SETTINGS_FADETIME">
                 <English>Transition Time</English>
-                <Russian></Russian>
+                <Russian>Длительность перехода</Russian>
                 <German>Übergangszeit</German>
             </Key>
             <Key ID="STR_EP_SETTINGS_SHOWNOTIFICATIONS">
                 <English>Show Notifications?</English>
-                <Russian></Russian>
+                <Russian>Показывать уведомления?</Russian>
                 <German>Benachrichtigunen anzeigen?</German>
             </Key>
             <Key ID="STR_EP_SETTINGS_VOLCOEF">
                 <English>Degree of Volume Reduction</English>
-                <Russian></Russian>
+                <Russian>Степень глушения звука</Russian>
                 <German>Lautstärkenreduktion</German>
             </Key>
         </Container>
         <Container name="Controls">
             <Key ID="STR_EP_CONTROLS_TOGGLE_EARPLUGS">
                 <English>Toggle Earplugs</English>
-                <Russian></Russian>
+                <Russian>Вставить/вынуть беруши</Russian>
                 <German>Ohrstöpsel umschalten</German>
             </Key>
         </Container>
